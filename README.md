@@ -4,6 +4,10 @@ Team Name: Code Crusaders
 ## For the Backend Code Just Click [`backend`](https://github.com/kajalchoudhary1003/360-feedback-backend).
 Clone both Frontend and Backend Repository to a local folder to run successfully.
 
+## Overview of Frontend Web App
+![image](https://github.com/kajalchoudhary1003/SIH23-CodeCrusaders/assets/108188712/c66c2021-ae7d-4d5c-9a80-2e061285e30f)
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
