@@ -16,7 +16,7 @@ import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 
-// export 
+// export
 export default function Home() {
   return (
     <>
@@ -219,7 +219,6 @@ export default function Home() {
             </Label>
           </div>
         </RadioGroup>
-
       </div>
       {/* submit button */}
       <div className="flex flex-row justify-center mt-4">
