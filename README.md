@@ -1,7 +1,7 @@
 ## 360-Feedback-System
 Team Name: Code Crusaders
 
-## For the Backend Code Just Click [`backend`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## For the Backend Code Just Click [`backend`](https://github.com/kajalchoudhary1003/360-feedback-backend).
 Clone both Frontend and Backend Repository to a local folder to run successfully.
 
 
